@@ -8,12 +8,12 @@ kernel.string=
 do.devicecheck=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=angelica
-device.name2=dandelion
-device.name3=angelican
-device.name4=angelicain
-device.name5=cattail
-device.name6=blossom
+device.name1=j5lte
+device.name2=
+device.name3=
+device.name4=
+device.name5=
+device.name6=
 supported.versions=
 '; } # end properties
 
